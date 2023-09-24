@@ -1,3 +1,1 @@
-Just use it
-
-(not working anymore cause google changed idea)
+Google changed idea about privacy etc., so It is not that easy anymore
