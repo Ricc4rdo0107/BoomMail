@@ -1,1 +1,1 @@
-Google changed idea about privacy etc., so It is not that easy anymore
+##DEPRECATED cause google new third party policies
