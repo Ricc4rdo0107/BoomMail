@@ -19,8 +19,8 @@ def login():
         server.login(em, psw)
     except Exception as e:
         print(f"Unexpected error \n\n{e}")
-        ch = input("Retry?S/n")
-        if ch.lower() == "s":
+        ch = input("Retry?Y/n")
+        if ch.lower() == "y":
             login()
         else:
             server.quit()
